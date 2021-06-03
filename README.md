@@ -10,4 +10,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Sincy Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=sincyjoseph)](https://github.com/sincyjoseph/github-readme-stats)
+![Sincy Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=sincyjoseph&show_icons=true)
+
