@@ -18,3 +18,4 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincyjoseph&langs_count=20&layout=compact)](https://github.com/sincyjoseph/github-readme-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=sincyjoseph&theme=radical" />
