@@ -1,4 +1,5 @@
-### Hi there 👋
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hi, I'm Sincy Joseph, a passionate self-taught software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -35,9 +36,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
