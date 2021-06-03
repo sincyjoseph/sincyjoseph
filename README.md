@@ -14,11 +14,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-![Sincy Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=sincyjoseph&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincyjoseph&langs_count=20&layout=compact)](https://github.com/sincyjoseph/github-readme-stats)
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -35,10 +30,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 
+![Sincy Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=sincyjoseph&show_icons=true&theme=radical)
 
-
-You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincyjoseph&langs_count=20&layout=compact)](https://github.com/sincyjoseph/github-readme-stats)
 
 
 
