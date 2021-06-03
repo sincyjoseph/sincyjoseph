@@ -20,4 +20,4 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincyjoseph&langs_count=20&layout=compact)](https://github.com/sincyjoseph/github-readme-stats)
 
-[![Sincy Joseph wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sincyjoseph)](https://github.com/sincyjoseph/github-readme-stats)
+[![Sincy Joseph wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sincyjoseph)](https://github.com/anuraghazra/github-readme-stats)
