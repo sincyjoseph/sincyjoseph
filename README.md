@@ -18,5 +18,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ![Sincy Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=sincyjoseph&hide=contribs,prs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sincyjoseph&show_icons=true)
+![Sincy Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=sincyjoseph&show_icons=true&hide=contribs,prs)
 
