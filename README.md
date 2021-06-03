@@ -16,7 +16,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ![Sincy Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=sincyjoseph&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincyjoseph)](https://github.com/sincyjoseph/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincyjoseph&langs_count=8)](https://github.com/sincyjoseph/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincyjoseph&langs_count=20&layout=compact)](https://github.com/sincyjoseph/github-readme-stats)
