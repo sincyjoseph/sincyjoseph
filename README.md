@@ -68,15 +68,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-<!-- links to your social media accounts -->
+links to your social media accounts
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/MartinHeinz
 [3]: https://www.linkedin.com/in/heinz-martin/
 
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
+Resources
+Icons: https://simpleicons.org/
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
