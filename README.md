@@ -19,14 +19,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![](https://img.shields.io/badge/ProgrammingLanguages-Python,Java,Python,C,CPP-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/WebTechnologies-HTML,CSS,JavaScript,Wordpress-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PerformanceTesting-ApacheJMeter-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/UITesting-SeleniumJavaFramework,KatalonStudio-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VersionControlSystems-Git,Github,Gitlab-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI/CDTool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CloudServices-AWS,Azure,GCP-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Blockchain-EthereumBlockchain,Metamask,Ganache/Geth,Web3js,Remix IDE,HyperledgerFabric,Truffle-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
