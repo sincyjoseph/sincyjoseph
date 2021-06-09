@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/sincyjoseph/sincyjoseph/blob/main/me.jpg" width="30px">
 
 I'm Sincy Joseph, a passionate self-taught Software and Researcher engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
